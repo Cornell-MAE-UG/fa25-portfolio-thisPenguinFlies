@@ -11,10 +11,10 @@ permalink: /cv/
 **Email:** [glh85@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +123 456 7890
 
 ---
-
+{% comment %}
 #### Objective
 Aspiring engineering student with a strong foundation in.... Passionate about ... and eager to apply my knowledge in real-world applications.
-
+{%endcomment %}
 ---
 
 #### Education
@@ -68,11 +68,11 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
   classroom environment.
 
 ---
-
+{% comment %}
 #### Achievements & Certifications
 - [Certification Name], [Issuing Organization], [Year]  
 - [Achievement Name], [Competition/Event], [Year]  
-
+{% endcomment %}
 ---
 
 #### Extracurricular Activities
