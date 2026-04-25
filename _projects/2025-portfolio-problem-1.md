@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Statics Mechanics of Solids Portfolio Problem No.1
+title: ENGRD 2020
 description: Class project
 technologies: N/A
 image: /assets/images/portfolio-problem-1-design.jpeg

@@ -4,20 +4,6 @@ title: "MAE-2250: Spotted Lanternfly Device"
 description: "Project details for MAE 2250: Spotted Lanternfly Device"
 image: /assets/images/SLF.jpg
 ---
-<!--
-Compile to PDF (example):
-  pandoc O3_ClientOutline_example_submission.md -o O3_ClientOutline.pdf
--->
-
-<!--
-Use `pandoc` to export this page as a PDF.  The second YAML block below
-contains the Pandoc options (font size, margins, etc.).  When you want to
-re‑generate the PDF, run a command such as:
-
-    pandoc _projects/MAE-2250-SLF.md -o _projects/pandoc.pdf
-
-You can also create a Makefile target or script if you prefer.
--->
 
 ## **Collaborators:** ##
 [Gabriel Hwang](mailto:glh85@cornell.edu), [Camille Eckert](mailto:cse49@cornell.edu), [Claire Kim](mailto:cwk66@cornell.edu), [Owen LaPierre](mailto:odl6@cornell.edu), [Ryan Cruz](mailto:rc939@cornell.edu)
